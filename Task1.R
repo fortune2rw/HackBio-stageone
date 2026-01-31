@@ -44,4 +44,4 @@ GC_calculator <- function(input_gene) {
 #EXAMPLES
 gene11 <- "GCATTTAT"
 gene12 <- "gcaTTTAT"
-GC_calculator(input_gene = "")
+GC_calculator(input_gene = "GCATTTAT")
