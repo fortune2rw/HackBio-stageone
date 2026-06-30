@@ -18,6 +18,6 @@ Case-insensitive input handling
 
 Clean, readable, and well-documented code
 
-Suitable learning
+Suitable for learning
 
 Easily extendable to batch processing or FASTA files
