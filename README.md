@@ -16,8 +16,8 @@ Uses standard biological conventions (one-letter amino acid codes)
 
 Case-insensitive input handling
 
-Clean, readable, and well-documented R code
+Clean, readable, and well-documented code
 
-Suitable for coursework, HackBio internships, and learning pipelines
+Suitable learning
 
 Easily extendable to batch processing or FASTA files
